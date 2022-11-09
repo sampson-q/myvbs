@@ -1,0 +1,15 @@
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\bin\Debug\net6.0\QuestionAnswersRandomization.exe
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\bin\Debug\net6.0\QuestionAnswersRandomization.deps.json
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\bin\Debug\net6.0\QuestionAnswersRandomization.runtimeconfig.json
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\bin\Debug\net6.0\QuestionAnswersRandomization.dll
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\bin\Debug\net6.0\QuestionAnswersRandomization.pdb
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.vbproj.AssemblyReference.cache
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.AssemblyInfoInputs.cache
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.AssemblyInfo.vb
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.vbproj.CoreCompileInputs.cache
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.dll
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\refint\QuestionAnswersRandomization.dll
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.pdb
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\QuestionAnswersRandomization.genruntimeconfig.cache
+C:\Users\Sheavadnazy\source\repos\QuestionAnswersRandomization\obj\Debug\net6.0\ref\QuestionAnswersRandomization.dll
