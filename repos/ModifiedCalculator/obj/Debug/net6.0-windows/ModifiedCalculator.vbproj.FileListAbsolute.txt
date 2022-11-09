@@ -1,0 +1,17 @@
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.calculator.resources
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.vbproj.GenerateResource.cache
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.AssemblyInfo.vb
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\ModifiedCalculator\bin\Debug\net6.0-windows\ModifiedCalculator.exe
+C:\Users\Hash\source\repos\ModifiedCalculator\bin\Debug\net6.0-windows\ModifiedCalculator.deps.json
+C:\Users\Hash\source\repos\ModifiedCalculator\bin\Debug\net6.0-windows\ModifiedCalculator.runtimeconfig.json
+C:\Users\Hash\source\repos\ModifiedCalculator\bin\Debug\net6.0-windows\ModifiedCalculator.dll
+C:\Users\Hash\source\repos\ModifiedCalculator\bin\Debug\net6.0-windows\ModifiedCalculator.pdb
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.dll
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\refint\ModifiedCalculator.dll
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.pdb
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ModifiedCalculator.genruntimeconfig.cache
+C:\Users\Hash\source\repos\ModifiedCalculator\obj\Debug\net6.0-windows\ref\ModifiedCalculator.dll

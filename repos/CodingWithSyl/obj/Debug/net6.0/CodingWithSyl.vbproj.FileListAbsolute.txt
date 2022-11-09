@@ -1,0 +1,15 @@
+C:\Users\Hash\source\repos\CodingWithSyl\bin\Debug\net6.0\CodingWithSyl.exe
+C:\Users\Hash\source\repos\CodingWithSyl\bin\Debug\net6.0\CodingWithSyl.deps.json
+C:\Users\Hash\source\repos\CodingWithSyl\bin\Debug\net6.0\CodingWithSyl.runtimeconfig.json
+C:\Users\Hash\source\repos\CodingWithSyl\bin\Debug\net6.0\CodingWithSyl.dll
+C:\Users\Hash\source\repos\CodingWithSyl\bin\Debug\net6.0\CodingWithSyl.pdb
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.AssemblyInfo.vb
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.dll
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\refint\CodingWithSyl.dll
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.pdb
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\CodingWithSyl.genruntimeconfig.cache
+C:\Users\Hash\source\repos\CodingWithSyl\obj\Debug\net6.0\ref\CodingWithSyl.dll

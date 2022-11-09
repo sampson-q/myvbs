@@ -1,0 +1,17 @@
+C:\Users\Hash\source\repos\SecondWindowsForm\bin\Debug\net6.0-windows\SecondWindowsForm.exe
+C:\Users\Hash\source\repos\SecondWindowsForm\bin\Debug\net6.0-windows\SecondWindowsForm.deps.json
+C:\Users\Hash\source\repos\SecondWindowsForm\bin\Debug\net6.0-windows\SecondWindowsForm.runtimeconfig.json
+C:\Users\Hash\source\repos\SecondWindowsForm\bin\Debug\net6.0-windows\SecondWindowsForm.dll
+C:\Users\Hash\source\repos\SecondWindowsForm\bin\Debug\net6.0-windows\SecondWindowsForm.pdb
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.Form1.resources
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.vbproj.GenerateResource.cache
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.AssemblyInfo.vb
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.dll
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\refint\SecondWindowsForm.dll
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.pdb
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\SecondWindowsForm.genruntimeconfig.cache
+C:\Users\Hash\source\repos\SecondWindowsForm\obj\Debug\net6.0-windows\ref\SecondWindowsForm.dll

@@ -1,0 +1,15 @@
+C:\Users\Hash\source\repos\SortNumbers\bin\Debug\net6.0\SortNumbers.exe
+C:\Users\Hash\source\repos\SortNumbers\bin\Debug\net6.0\SortNumbers.deps.json
+C:\Users\Hash\source\repos\SortNumbers\bin\Debug\net6.0\SortNumbers.runtimeconfig.json
+C:\Users\Hash\source\repos\SortNumbers\bin\Debug\net6.0\SortNumbers.dll
+C:\Users\Hash\source\repos\SortNumbers\bin\Debug\net6.0\SortNumbers.pdb
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfo.vb
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.dll
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\refint\SortNumbers.dll
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.pdb
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\SortNumbers.genruntimeconfig.cache
+C:\Users\Hash\source\repos\SortNumbers\obj\Debug\net6.0\ref\SortNumbers.dll

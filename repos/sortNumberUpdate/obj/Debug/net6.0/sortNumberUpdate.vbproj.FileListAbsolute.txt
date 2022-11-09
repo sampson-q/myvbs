@@ -1,0 +1,15 @@
+C:\Users\Hash\source\repos\sortNumberUpdate\bin\Debug\net6.0\sortNumberUpdate.exe
+C:\Users\Hash\source\repos\sortNumberUpdate\bin\Debug\net6.0\sortNumberUpdate.deps.json
+C:\Users\Hash\source\repos\sortNumberUpdate\bin\Debug\net6.0\sortNumberUpdate.runtimeconfig.json
+C:\Users\Hash\source\repos\sortNumberUpdate\bin\Debug\net6.0\sortNumberUpdate.dll
+C:\Users\Hash\source\repos\sortNumberUpdate\bin\Debug\net6.0\sortNumberUpdate.pdb
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.AssemblyInfo.vb
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.dll
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\refint\sortNumberUpdate.dll
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.pdb
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\sortNumberUpdate.genruntimeconfig.cache
+C:\Users\Hash\source\repos\sortNumberUpdate\obj\Debug\net6.0\ref\sortNumberUpdate.dll

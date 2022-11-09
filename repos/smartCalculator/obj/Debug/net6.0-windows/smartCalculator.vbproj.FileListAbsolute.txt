@@ -1,0 +1,17 @@
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.calculator.resources
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.vbproj.GenerateResource.cache
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.AssemblyInfo.vb
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\smartCalculator\bin\Debug\net6.0-windows\smartCalculator.exe
+C:\Users\Hash\source\repos\smartCalculator\bin\Debug\net6.0-windows\smartCalculator.deps.json
+C:\Users\Hash\source\repos\smartCalculator\bin\Debug\net6.0-windows\smartCalculator.runtimeconfig.json
+C:\Users\Hash\source\repos\smartCalculator\bin\Debug\net6.0-windows\smartCalculator.dll
+C:\Users\Hash\source\repos\smartCalculator\bin\Debug\net6.0-windows\smartCalculator.pdb
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.dll
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\refint\smartCalculator.dll
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.pdb
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\smartCalculator.genruntimeconfig.cache
+C:\Users\Hash\source\repos\smartCalculator\obj\Debug\net6.0-windows\ref\smartCalculator.dll

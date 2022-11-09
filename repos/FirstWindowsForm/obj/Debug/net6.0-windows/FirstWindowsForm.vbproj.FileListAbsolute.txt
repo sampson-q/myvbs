@@ -1,0 +1,17 @@
+C:\Users\Hash\source\repos\FirstWindowsForm\bin\Debug\net6.0-windows\FirstWindowsForm.exe
+C:\Users\Hash\source\repos\FirstWindowsForm\bin\Debug\net6.0-windows\FirstWindowsForm.deps.json
+C:\Users\Hash\source\repos\FirstWindowsForm\bin\Debug\net6.0-windows\FirstWindowsForm.runtimeconfig.json
+C:\Users\Hash\source\repos\FirstWindowsForm\bin\Debug\net6.0-windows\FirstWindowsForm.dll
+C:\Users\Hash\source\repos\FirstWindowsForm\bin\Debug\net6.0-windows\FirstWindowsForm.pdb
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.Form1.resources
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.vbproj.GenerateResource.cache
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.AssemblyInfo.vb
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.dll
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\refint\FirstWindowsForm.dll
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.pdb
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\FirstWindowsForm.genruntimeconfig.cache
+C:\Users\Hash\source\repos\FirstWindowsForm\obj\Debug\net6.0-windows\ref\FirstWindowsForm.dll

@@ -1,0 +1,2 @@
+1. Modified the code to take care of an uncaught error that happens on every first run
+2. Modified the code to handle multiple exceptions and display error messages with respect to which exception occured

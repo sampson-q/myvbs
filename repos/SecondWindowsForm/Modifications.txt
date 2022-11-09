@@ -1,0 +1,2 @@
+1. Added checkboxes for various operators
+2. Only one checkbox can be selected at a time (any other checkbox gets deselected once a different checkbox gets selected)

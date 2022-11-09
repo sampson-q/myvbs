@@ -1,0 +1,15 @@
+C:\Users\Hash\source\repos\VBWorkOuts\bin\Debug\net6.0\VBWorkOuts.exe
+C:\Users\Hash\source\repos\VBWorkOuts\bin\Debug\net6.0\VBWorkOuts.deps.json
+C:\Users\Hash\source\repos\VBWorkOuts\bin\Debug\net6.0\VBWorkOuts.runtimeconfig.json
+C:\Users\Hash\source\repos\VBWorkOuts\bin\Debug\net6.0\VBWorkOuts.dll
+C:\Users\Hash\source\repos\VBWorkOuts\bin\Debug\net6.0\VBWorkOuts.pdb
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.AssemblyInfo.vb
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.dll
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\refint\VBWorkOuts.dll
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.pdb
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\VBWorkOuts.genruntimeconfig.cache
+C:\Users\Hash\source\repos\VBWorkOuts\obj\Debug\net6.0\ref\VBWorkOuts.dll

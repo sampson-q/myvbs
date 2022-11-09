@@ -1,0 +1,19 @@
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade_Savings_And_Loan.home.resources
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade_Savings_And_Loan.Resources.resources
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.vbproj.GenerateResource.cache
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.AssemblyInfo.vb
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\Manmade Savings And Loan\bin\Debug\net6.0-windows\Manmade Savings And Loan.exe
+C:\Users\Hash\source\repos\Manmade Savings And Loan\bin\Debug\net6.0-windows\Manmade Savings And Loan.deps.json
+C:\Users\Hash\source\repos\Manmade Savings And Loan\bin\Debug\net6.0-windows\Manmade Savings And Loan.runtimeconfig.json
+C:\Users\Hash\source\repos\Manmade Savings And Loan\bin\Debug\net6.0-windows\Manmade Savings And Loan.dll
+C:\Users\Hash\source\repos\Manmade Savings And Loan\bin\Debug\net6.0-windows\Manmade Savings And Loan.pdb
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade_Savings_And_Loan.dashboard.resources
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.dll
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\refint\Manmade Savings And Loan.dll
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.pdb
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\Manmade Savings And Loan.genruntimeconfig.cache
+C:\Users\Hash\source\repos\Manmade Savings And Loan\obj\Debug\net6.0-windows\ref\Manmade Savings And Loan.dll

@@ -1,0 +1,17 @@
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.AccountTest.resources
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.vbproj.GenerateResource.cache
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.AssemblyInfo.vb
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\BankAccountApplication\bin\Debug\net6.0-windows\BankAccountApplication.exe
+C:\Users\Hash\source\repos\BankAccountApplication\bin\Debug\net6.0-windows\BankAccountApplication.deps.json
+C:\Users\Hash\source\repos\BankAccountApplication\bin\Debug\net6.0-windows\BankAccountApplication.runtimeconfig.json
+C:\Users\Hash\source\repos\BankAccountApplication\bin\Debug\net6.0-windows\BankAccountApplication.dll
+C:\Users\Hash\source\repos\BankAccountApplication\bin\Debug\net6.0-windows\BankAccountApplication.pdb
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.dll
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\refint\BankAccountApplication.dll
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.pdb
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\BankAccountApplication.genruntimeconfig.cache
+C:\Users\Hash\source\repos\BankAccountApplication\obj\Debug\net6.0-windows\ref\BankAccountApplication.dll

@@ -1,0 +1,6 @@
+Modifications Made:
+	1. Added a label to keep track of which operator is selected at the time (lines 97 & 133)
+		a. On line 97, the operator clicked is added to the sting: " Operator Selected" and displayed in the operatorLabel
+		b. On line 133, when the reset button is clicked, the operatorLabel.Text is set to "No Operator Selected"
+
+	2. Set the TextBox1's text alignment to left and made sure that figures are displayed from right to left (like most calculators)

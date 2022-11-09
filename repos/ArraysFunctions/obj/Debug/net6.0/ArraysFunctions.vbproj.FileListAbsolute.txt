@@ -1,0 +1,15 @@
+C:\Users\Hash\source\repos\ArraysFunctions\bin\Debug\net6.0\ArraysFunctions.exe
+C:\Users\Hash\source\repos\ArraysFunctions\bin\Debug\net6.0\ArraysFunctions.deps.json
+C:\Users\Hash\source\repos\ArraysFunctions\bin\Debug\net6.0\ArraysFunctions.runtimeconfig.json
+C:\Users\Hash\source\repos\ArraysFunctions\bin\Debug\net6.0\ArraysFunctions.dll
+C:\Users\Hash\source\repos\ArraysFunctions\bin\Debug\net6.0\ArraysFunctions.pdb
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.vbproj.AssemblyReference.cache
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.AssemblyInfoInputs.cache
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.AssemblyInfo.vb
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.vbproj.CoreCompileInputs.cache
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.dll
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\refint\ArraysFunctions.dll
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.pdb
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ArraysFunctions.genruntimeconfig.cache
+C:\Users\Hash\source\repos\ArraysFunctions\obj\Debug\net6.0\ref\ArraysFunctions.dll
